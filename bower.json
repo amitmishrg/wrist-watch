@@ -1,0 +1,14 @@
+{
+  "name": "Watch demo",
+  "description": "simple hand watch",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
