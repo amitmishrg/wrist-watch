@@ -3,4 +3,4 @@
 Stylish wrist watch design using CSS
 
 # Demo
-https://amituidev.github.io/wrist-watch/
+https://amitmishrg.github.io/wrist-watch/
